@@ -5,3 +5,10 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Set the year in the footer
+    let year = new Date().getFullYear();
+    document.getElementById("year").innerHTML = year;
+});
