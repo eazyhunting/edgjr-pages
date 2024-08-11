@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://eazyhunting.github.com/edgjr-pages/sitemap.xml
