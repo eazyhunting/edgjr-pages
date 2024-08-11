@@ -7591,6 +7591,12 @@ textarea.form-control-lg {
   margin-bottom: auto !important;
 }
 
+.my-auto-horizontal {
+  display: flex;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 .mt-0 {
   margin-top: 0 !important;
 }
